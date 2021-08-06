@@ -11,6 +11,6 @@
 - 方便平时复习
 
 [开始阅读](#快速开始)
-[GitHub](https://github.com/docsifyjs/docsify)
+[GitHub](https://github.com/worldtrigger/TypescriptStudyNotes)
 
 <!-- [Get Started](https://www.baidu.com) -->
